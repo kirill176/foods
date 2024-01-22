@@ -1106,7 +1106,7 @@ body {
     background-color: black;
     -webkit-transform: rotate(-45deg);
             transform: rotate(-45deg);
-    bottom: 9px;
+    bottom: 8px;
   }
   .header .click span {
     display: none;
@@ -1522,7 +1522,7 @@ body {
     font-size: 35px;
   }
   .originaltaste__content button {
-    height: 20px;
+    height: 30px;
     width: 130px;
   }
   .originaltaste__content button a {
@@ -1579,7 +1579,7 @@ body {
     max-width: 180px;
   }
   .grill__content button {
-    height: 20px;
+    height: 30px;
     width: 130px;
   }
   .grill__content button a {
